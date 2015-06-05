@@ -1,0 +1,9 @@
+Package: mypkg
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2015-06-04
+Author: Mostak-Ur-Rahman <msweet.ru@gmail.com>
+Maintainer:  Mostak-Ur-Rahman <msweet.ru@gmail.com>
+Description: Calculation of mean
+License: GPL2
